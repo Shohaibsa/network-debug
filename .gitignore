@@ -1,0 +1,58 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.vim/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Tool-generated files
+network_baseline_before.json
+network_baseline_after.json
+benchmark_comparison.md
+*.bak.*
+system-config.json
+diagnostic.json
+optimization_report.md
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/ 

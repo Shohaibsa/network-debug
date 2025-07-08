@@ -1,0 +1,30 @@
+# Network Debug Tool Dependencies
+# Python 3.7+ required
+
+# Core dependency for configuration file parsing
+PyYAML>=5.1
+
+# Note: All other dependencies are Python standard library modules:
+# - argparse (built-in)
+# - json (built-in)
+# - logging (built-in)
+# - os (built-in)
+# - re (built-in)
+# - subprocess (built-in)
+# - sys (built-in)
+# - time (built-in)
+# - tempfile (built-in)
+# - dataclasses (built-in Python 3.7+)
+# - enum (built-in)
+# - pathlib (built-in)
+# - typing (built-in)
+# - urllib (built-in)
+# - configparser (built-in)
+# - ipaddress (built-in)
+# - socket (built-in)
+# - shutil (built-in)
+# - collections (built-in)
+# - concurrent.futures (built-in)
+# - datetime (built-in)
+# - importlib (built-in)
+# - pkgutil (built-in) 

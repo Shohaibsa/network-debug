@@ -1,0 +1,19 @@
+# Network Debug Tool Configuration
+# This file allows you to configure which optimization rules are enabled/disabled
+
+# Rules to disable (by module name)
+disabled_rules:
+  # Uncomment to disable specific rule categories
+  # - tcp      # Disable TCP stack optimizations
+  # - wifi     # Disable Wi-Fi optimizations
+  # - dns      # Disable DNS optimizations
+  # - driver   # Disable driver optimizations
+  # - interface # Disable network interface optimizations
+  # - vpn      # Disable VPN detection
+
+# Future configuration options could include:
+# rule_specific_settings:
+#   tcp:
+#     max_buffer_size: 134217728
+#   dns:
+#     preferred_servers: ["1.1.1.1", "8.8.8.8"] 
