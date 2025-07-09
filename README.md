@@ -167,7 +167,7 @@ Network Interfaces:
 
 Wi-Fi Information:
   Interface: wlo1
-  SSID: SHAW-F528
+  SSID: $SSID
   Frequency: 5.2 GHz (5GHz)
   Channel: 44
   Signal: -30 dBm
