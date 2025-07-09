@@ -6,7 +6,7 @@ Network Debug Tool for Linux Wi-Fi Performance Optimization
 A comprehensive CLI-based tool for diagnosing Wi-Fi bottlenecks and optimizing
 network performance on Linux systems.
 
-Version: 1.0.0
+Version: 1.0.1
 License: MIT
 Python: 3.7+
 
@@ -46,7 +46,7 @@ import importlib
 import pkgutil
 
 # Tool version
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 # Color codes for terminal output
 class Colors:

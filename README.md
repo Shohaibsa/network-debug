@@ -346,7 +346,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
-**Version**: 1.0.0  
+**Version**: 1.0.1
 **Python**: 3.7+  
 **Platform**: Linux  
 **License**: MIT 

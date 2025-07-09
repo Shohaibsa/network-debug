@@ -6,4 +6,4 @@ Each rule module should export an analyze() function that takes a SystemContext
 and returns a list of OptimizationRule objects.
 """
 
-__version__ = "1.0.0" 
+__version__ = "1.0.1" 
